@@ -12,7 +12,7 @@ void setup() {
   //clear screen
   lcd.clear();
   // Print a message to the LCD.
-  lcd.print("COde champions");
+  lcd.print("CO:de champions");
   lcd.setCursor(0, 1);
   lcd.print("until ");
 }
