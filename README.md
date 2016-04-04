@@ -8,9 +8,9 @@ The time will restart once powered down. You'll need a battery source (like we d
 #Todos
 -   {X} add countdown to event in seconds
 -   {X} add add title above countdown
--   { } add countdown success message
+-   {~} add countdown success message. [see repo for RTC chip](https://github.com/attheCO/trophy-countdown-rtc-chip)
 -   { } add button and if statement to reset timer (if countdown complete)
--   { } add RTC chip to check today's date/time for a accurate countdown to event date
+-   {X} add RTC chip to check today's date/time for a accurate countdown to event date. [see repo for RTC chip](https://github.com/attheCO/trophy-countdown-rtc-chip)
 -   { } add array of fun random messages to popup every 10secs~
 
 #Ideas
